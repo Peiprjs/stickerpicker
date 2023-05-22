@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "stimpack.json"
+  ],
+  "homeserver_url": "https://matrix.catgirl.cloud"
+}
