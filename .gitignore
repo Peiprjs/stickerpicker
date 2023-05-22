@@ -10,5 +10,5 @@ node_modules
 web/lib/import-map.json
 
 *.session
-/*.json
+config.json
 *.bak
