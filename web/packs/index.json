@@ -1,6 +1,7 @@
 {
   "packs": [
-    "stimpack.json"
+    "stimpack.json",
+    "peipr-pixelart.json"
   ],
   "homeserver_url": "https://matrix.catgirl.cloud"
 }
