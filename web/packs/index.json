@@ -2,7 +2,8 @@
   "packs": [
     "stimpack.json",
     "peipr-pixelart.json",
-    "yagate-kimi-ni-naru.json"
+    "yagate-kimi-ni-naru.json",
+    "manga.json"
   ],
   "homeserver_url": "https://matrix.catgirl.cloud"
 }
